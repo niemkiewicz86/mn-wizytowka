@@ -1,0 +1,1201 @@
+{
+  "_meta": {
+    "opis": "Finalna baza skilla Skryba. Link nigdy nie zgadywany - zawsze dopasowanie do realnej pozycji w bazie + walidowalny URL (CDN).",
+    "polityka_linku": "1) gif ExerciseDB (score>=0.8) 2) obrazek free-exercise-db (score>=0.5) 3) reczne (YouTube od Michała)",
+    "liczba": 54,
+    "statystyka_linkow": {
+      "gif": 41,
+      "obrazek": 8,
+      "reczne": 5
+    },
+    "do_recznej_weryfikacji_flagi": 4,
+    "exercisedb_dostepne": true
+  },
+  "cwiczenia": [
+    {
+      "nazwa_pl": "Allahy",
+      "nazwa_en": "kneeling cable crunch",
+      "aliasy": [
+        "allahy",
+        "spięcia na kolanach",
+        "modlitwa"
+      ],
+      "partia": "core",
+      "tempo": "2-0-1-1",
+      "serie": "",
+      "powtorzenia": "12-15",
+      "przerwa": "",
+      "uwagi": "jako B",
+      "link": "https://static.exercisedb.dev/media/WW95auq.gif",
+      "link_typ": "gif",
+      "link_zrodlo": "exercisedb",
+      "dopasowano_do": "cable kneeling crunch",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "abs"
+      ]
+    },
+    {
+      "nazwa_pl": "Deska",
+      "nazwa_en": "plank",
+      "aliasy": [
+        "plank",
+        "deska"
+      ],
+      "partia": "core",
+      "tempo": "-",
+      "serie": "",
+      "powtorzenia": "20-60 sek.",
+      "przerwa": "",
+      "uwagi": "jako B",
+      "link": "https://static.exercisedb.dev/media/VBAWRPG.gif",
+      "link_typ": "gif",
+      "link_zrodlo": "exercisedb",
+      "dopasowano_do": "weighted front plank",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "abs"
+      ]
+    },
+    {
+      "nazwa_pl": "Deska boczna",
+      "nazwa_en": "side plank",
+      "aliasy": [
+        "deska bok",
+        "side plank"
+      ],
+      "partia": "core",
+      "tempo": "-",
+      "serie": "",
+      "powtorzenia": "20-40 sek./stronę",
+      "przerwa": "",
+      "uwagi": "samodzielne",
+      "link": "https://static.exercisedb.dev/media/5VXmnV5.gif",
+      "link_typ": "gif",
+      "link_zrodlo": "exercisedb",
+      "dopasowano_do": "bodyweight incline side plank",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "abs"
+      ]
+    },
+    {
+      "nazwa_pl": "Hollow body",
+      "nazwa_en": "hollow hold",
+      "aliasy": [
+        "hollow",
+        "hollow body"
+      ],
+      "partia": "core",
+      "tempo": "-",
+      "serie": "",
+      "powtorzenia": "20-60 sek.",
+      "przerwa": "",
+      "uwagi": "jako B lub samodzielne",
+      "link": "",
+      "link_typ": "reczne",
+      "link_zrodlo": "",
+      "dopasowano_do": "",
+      "mismatch_ryzyko": false,
+      "miesnie": []
+    },
+    {
+      "nazwa_pl": "Pallof press na gumie",
+      "nazwa_en": "band pallof press",
+      "aliasy": [
+        "pallof"
+      ],
+      "partia": "core",
+      "tempo": "2-0-2-1",
+      "serie": "",
+      "powtorzenia": "10-15/stronę",
+      "przerwa": "",
+      "uwagi": "jako B",
+      "link": "https://static.exercisedb.dev/media/9pa4H5m.gif",
+      "link_typ": "gif",
+      "link_zrodlo": "exercisedb",
+      "dopasowano_do": "band horizontal pallof press",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "abs"
+      ]
+    },
+    {
+      "nazwa_pl": "Pike na piłce fitnesowej",
+      "nazwa_en": "stability ball pike",
+      "aliasy": [
+        "pike",
+        "scyzoryk na piłce"
+      ],
+      "partia": "core",
+      "tempo": "2-1-2-0",
+      "serie": "",
+      "powtorzenia": "5-15",
+      "przerwa": "",
+      "uwagi": "jako B",
+      "link": "",
+      "link_typ": "reczne",
+      "link_zrodlo": "",
+      "dopasowano_do": "",
+      "mismatch_ryzyko": false,
+      "miesnie": []
+    },
+    {
+      "nazwa_pl": "Rozjazdy na kółku",
+      "nazwa_en": "ab wheel rollout",
+      "aliasy": [
+        "kółko",
+        "rollout",
+        "rozjazdy"
+      ],
+      "partia": "core",
+      "tempo": "3-0-1-1",
+      "serie": "",
+      "powtorzenia": "5-15",
+      "przerwa": "",
+      "uwagi": "jako B",
+      "link": "https://cdn.jsdelivr.net/gh/yuhonas/free-exercise-db@main/exercises/Barbell_Ab_Rollout/0.jpg",
+      "link_typ": "obrazek",
+      "link_zrodlo": "free-exercise-db",
+      "dopasowano_do": "Barbell Ab Rollout",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "abdominals"
+      ]
+    },
+    {
+      "nazwa_pl": "Spacer farmera jednorącz z kettlebell",
+      "nazwa_en": "suitcase carry",
+      "aliasy": [
+        "spacer farmera",
+        "farmer",
+        "walizka"
+      ],
+      "partia": "core",
+      "tempo": "-",
+      "serie": "",
+      "powtorzenia": "30 sek./stronę",
+      "przerwa": "",
+      "uwagi": "60-120 sek. przerwy",
+      "link": "https://cdn.jsdelivr.net/gh/yuhonas/free-exercise-db@main/exercises/Rickshaw_Carry/0.jpg",
+      "link_typ": "obrazek",
+      "link_zrodlo": "free-exercise-db",
+      "dopasowano_do": "Rickshaw Carry",
+      "mismatch_ryzyko": true,
+      "miesnie": [
+        "forearms"
+      ]
+    },
+    {
+      "nazwa_pl": "Wznosy nóg w zwisie",
+      "nazwa_en": "hanging leg raise",
+      "aliasy": [
+        "wznosy nóg",
+        "nogi w zwisie"
+      ],
+      "partia": "core",
+      "tempo": "2-0-1-1",
+      "serie": "",
+      "powtorzenia": "6+",
+      "przerwa": "",
+      "uwagi": "jako B",
+      "link": "https://static.exercisedb.dev/media/I3tsCnC.gif",
+      "link_typ": "gif",
+      "link_zrodlo": "exercisedb",
+      "dopasowano_do": "hanging leg raise",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "abs"
+      ]
+    },
+    {
+      "nazwa_pl": "Glute bridge ze sztangą",
+      "nazwa_en": "barbell glute bridge",
+      "aliasy": [
+        "glute bridge",
+        "mostek ze sztangą"
+      ],
+      "partia": "dół",
+      "tempo": "2-0-1-1",
+      "serie": "3",
+      "powtorzenia": "12-15",
+      "przerwa": "90-120",
+      "uwagi": "",
+      "link": "https://static.exercisedb.dev/media/qKBpF7I.gif",
+      "link_typ": "gif",
+      "link_zrodlo": "exercisedb",
+      "dopasowano_do": "barbell glute bridge",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "glutes"
+      ]
+    },
+    {
+      "nazwa_pl": "Hip thrust na suwnicy smitha",
+      "nazwa_en": "smith machine hip thrust",
+      "aliasy": [
+        "hip thrust smith"
+      ],
+      "partia": "dół",
+      "tempo": "2-0-1-1",
+      "serie": "2-3",
+      "powtorzenia": "8-12",
+      "przerwa": "60-90 co nogę",
+      "uwagi": "",
+      "link": "https://cdn.jsdelivr.net/gh/yuhonas/free-exercise-db@main/exercises/Smith_Machine_Hip_Raise/0.jpg",
+      "link_typ": "obrazek",
+      "link_zrodlo": "free-exercise-db",
+      "dopasowano_do": "Smith Machine Hip Raise",
+      "mismatch_ryzyko": true,
+      "miesnie": [
+        "abdominals"
+      ]
+    },
+    {
+      "nazwa_pl": "Hip thrust ze sztangą w oparciu o ławeczkę",
+      "nazwa_en": "barbell hip thrust",
+      "aliasy": [
+        "hip thrust",
+        "wypychanie bioder ze sztangą"
+      ],
+      "partia": "dół",
+      "tempo": "2-0-1-0",
+      "serie": "3",
+      "powtorzenia": "6-10",
+      "przerwa": "120-180",
+      "uwagi": "",
+      "link": "https://cdn.jsdelivr.net/gh/yuhonas/free-exercise-db@main/exercises/Barbell_Hip_Thrust/0.jpg",
+      "link_typ": "obrazek",
+      "link_zrodlo": "free-exercise-db",
+      "dopasowano_do": "Barbell Hip Thrust",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "glutes"
+      ]
+    },
+    {
+      "nazwa_pl": "Kick back na lince",
+      "nazwa_en": "cable glute kickback",
+      "aliasy": [
+        "kickback",
+        "wykop w tył na lince"
+      ],
+      "partia": "dół",
+      "tempo": "2-0-1-1",
+      "serie": "2",
+      "powtorzenia": "12-15/nogę",
+      "przerwa": "60-90",
+      "uwagi": "",
+      "link": "https://static.exercisedb.dev/media/HEJ6DIX.gif",
+      "link_typ": "gif",
+      "link_zrodlo": "exercisedb",
+      "dopasowano_do": "cable kickback",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "triceps"
+      ]
+    },
+    {
+      "nazwa_pl": "Leg extension (maszyna)",
+      "nazwa_en": "leg extension",
+      "aliasy": [
+        "prostowanie nóg",
+        "leg extension"
+      ],
+      "partia": "dół",
+      "tempo": "2-0-2-1",
+      "serie": "2-3",
+      "powtorzenia": "12-15",
+      "przerwa": "60-90",
+      "uwagi": "",
+      "link": "https://static.exercisedb.dev/media/my33uHU.gif",
+      "link_typ": "gif",
+      "link_zrodlo": "exercisedb",
+      "dopasowano_do": "lever leg extension",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "quads"
+      ]
+    },
+    {
+      "nazwa_pl": "Martwy ciąg z trap barem",
+      "nazwa_en": "trap bar deadlift",
+      "aliasy": [
+        "MC z trap bar",
+        "trap bar",
+        "martwy z trapem"
+      ],
+      "partia": "dół",
+      "tempo": "2-0-1-1",
+      "serie": "3",
+      "powtorzenia": "5-8",
+      "przerwa": "120-180",
+      "uwagi": "",
+      "link": "https://static.exercisedb.dev/media/jQGwmxN.gif",
+      "link_typ": "gif",
+      "link_zrodlo": "exercisedb",
+      "dopasowano_do": "trap bar deadlift",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "glutes"
+      ]
+    },
+    {
+      "nazwa_pl": "Odwodzenie bioder na maszynie siedząc",
+      "nazwa_en": "hip abduction machine",
+      "aliasy": [
+        "odwodzenie maszyna",
+        "abdukcja siedząc"
+      ],
+      "partia": "dół",
+      "tempo": "3-0-1-0",
+      "serie": "-",
+      "powtorzenia": "15-20",
+      "przerwa": "-",
+      "uwagi": "",
+      "link": "",
+      "link_typ": "reczne",
+      "link_zrodlo": "",
+      "dopasowano_do": "",
+      "mismatch_ryzyko": false,
+      "miesnie": []
+    },
+    {
+      "nazwa_pl": "Odwodzenie biodra z gumą w podporze czworaczym",
+      "nazwa_en": "quadruped hip abduction",
+      "aliasy": [
+        "fire hydrant",
+        "hydrant"
+      ],
+      "partia": "dół",
+      "tempo": "2-0-1-1",
+      "serie": "4",
+      "powtorzenia": "10-20/nogę",
+      "przerwa": "60-90",
+      "uwagi": "",
+      "link": "https://static.exercisedb.dev/media/7WaDzyL.gif",
+      "link_typ": "gif",
+      "link_zrodlo": "exercisedb",
+      "dopasowano_do": "side hip abduction",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "abductors"
+      ]
+    },
+    {
+      "nazwa_pl": "Przysiad bułgarski z hantlami",
+      "nazwa_en": "dumbbell bulgarian split squat",
+      "aliasy": [
+        "bułgary",
+        "przysiad bułgarski",
+        "split squat"
+      ],
+      "partia": "dół",
+      "tempo": "2-0-1-1",
+      "serie": "2-3",
+      "powtorzenia": "6-10/nogę",
+      "przerwa": "60-90",
+      "uwagi": "",
+      "link": "",
+      "link_typ": "reczne",
+      "link_zrodlo": "",
+      "dopasowano_do": "",
+      "mismatch_ryzyko": false,
+      "miesnie": []
+    },
+    {
+      "nazwa_pl": "Przysiad goblet z kettlebell",
+      "nazwa_en": "goblet squat",
+      "aliasy": [
+        "goblet",
+        "przysiad goblet"
+      ],
+      "partia": "dół",
+      "tempo": "2-0-1-1",
+      "serie": "2-3",
+      "powtorzenia": "8-12",
+      "przerwa": "90-120",
+      "uwagi": "",
+      "link": "https://static.exercisedb.dev/media/ZA8b5hc.gif",
+      "link_typ": "gif",
+      "link_zrodlo": "exercisedb",
+      "dopasowano_do": "kettlebell goblet squat",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "glutes"
+      ]
+    },
+    {
+      "nazwa_pl": "Przysiad ze sztangą na plecach",
+      "nazwa_en": "barbell full squat",
+      "aliasy": [
+        "przysiad",
+        "przysiad ze sztangą",
+        "back squat"
+      ],
+      "partia": "dół",
+      "tempo": "2-0-1-1",
+      "serie": "3",
+      "powtorzenia": "6-10",
+      "przerwa": "120-180",
+      "uwagi": "",
+      "link": "https://static.exercisedb.dev/media/qXTaZnJ.gif",
+      "link_typ": "gif",
+      "link_zrodlo": "exercisedb",
+      "dopasowano_do": "barbell full squat",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "glutes"
+      ]
+    },
+    {
+      "nazwa_pl": "Przywodzenie kopenhaskie z ławeczką",
+      "nazwa_en": "copenhagen adduction",
+      "aliasy": [
+        "kopenhaga",
+        "copenhagen plank"
+      ],
+      "partia": "dół",
+      "tempo": "2-0-1-1",
+      "serie": "-",
+      "powtorzenia": "10-15/nogę",
+      "przerwa": "-",
+      "uwagi": "",
+      "link": "https://cdn.jsdelivr.net/gh/yuhonas/free-exercise-db@main/exercises/Cable_Hip_Adduction/0.jpg",
+      "link_typ": "obrazek",
+      "link_zrodlo": "free-exercise-db",
+      "dopasowano_do": "Cable Hip Adduction",
+      "mismatch_ryzyko": true,
+      "miesnie": [
+        "quadriceps"
+      ]
+    },
+    {
+      "nazwa_pl": "Reverse hyper na suwnicy smitha",
+      "nazwa_en": "reverse hyperextension",
+      "aliasy": [
+        "reverse hyper"
+      ],
+      "partia": "dół",
+      "tempo": "2-0-1-1",
+      "serie": "2",
+      "powtorzenia": "12-15",
+      "przerwa": "90-120",
+      "uwagi": "",
+      "link": "https://static.exercisedb.dev/media/Krmb3cB.gif",
+      "link_typ": "gif",
+      "link_zrodlo": "exercisedb",
+      "dopasowano_do": "lever reverse hyperextension",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "glutes"
+      ]
+    },
+    {
+      "nazwa_pl": "Rumuński martwy ciąg na suwnicy smitha",
+      "nazwa_en": "smith romanian deadlift",
+      "aliasy": [
+        "RMC smith",
+        "rumuński na smithcie"
+      ],
+      "partia": "dół",
+      "tempo": "3-0-1-1",
+      "serie": "2-3",
+      "powtorzenia": "8-12",
+      "przerwa": "90-120",
+      "uwagi": "",
+      "link": "https://static.exercisedb.dev/media/UfePqpx.gif",
+      "link_typ": "gif",
+      "link_zrodlo": "exercisedb",
+      "dopasowano_do": "smith deadlift",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "glutes"
+      ]
+    },
+    {
+      "nazwa_pl": "Wspięcie na palce stojąc na stepie jednonóż",
+      "nazwa_en": "single leg calf raise",
+      "aliasy": [
+        "wspięcia na palce",
+        "łydki jednonóż"
+      ],
+      "partia": "dół",
+      "tempo": "3-3-1-1",
+      "serie": "3",
+      "powtorzenia": "6-15",
+      "przerwa": "60-90",
+      "uwagi": "",
+      "link": "https://static.exercisedb.dev/media/1kB3Wmk.gif",
+      "link_typ": "gif",
+      "link_zrodlo": "exercisedb",
+      "dopasowano_do": "dumbbell single leg calf raise",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "calves"
+      ]
+    },
+    {
+      "nazwa_pl": "Wyciskanie nogami na suwnicy",
+      "nazwa_en": "sled leg press",
+      "aliasy": [
+        "suwnica",
+        "leg press",
+        "wyciskanie nogami"
+      ],
+      "partia": "dół",
+      "tempo": "2-0-1-1",
+      "serie": "2-3",
+      "powtorzenia": "8-12",
+      "przerwa": "120-180",
+      "uwagi": "",
+      "link": "https://static.exercisedb.dev/media/ykHcWme.gif",
+      "link_typ": "gif",
+      "link_zrodlo": "exercisedb",
+      "dopasowano_do": "sled calf press on leg press",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "calves"
+      ]
+    },
+    {
+      "nazwa_pl": "Wypychanie bioder jednonóż w leżeniu",
+      "nazwa_en": "single leg hip thrust",
+      "aliasy": [
+        "hip thrust jednonóż"
+      ],
+      "partia": "dół",
+      "tempo": "2-0-1-1",
+      "serie": "3-4",
+      "powtorzenia": "6-15/nogę",
+      "przerwa": "60-120",
+      "uwagi": "",
+      "link": "https://cdn.jsdelivr.net/gh/yuhonas/free-exercise-db@main/exercises/Barbell_Hip_Thrust/0.jpg",
+      "link_typ": "obrazek",
+      "link_zrodlo": "free-exercise-db",
+      "dopasowano_do": "Barbell Hip Thrust",
+      "mismatch_ryzyko": true,
+      "miesnie": [
+        "glutes"
+      ]
+    },
+    {
+      "nazwa_pl": "Zakroki curtsy z hantlami",
+      "nazwa_en": "dumbbell curtsy lunge",
+      "aliasy": [
+        "curtsy",
+        "zakrok curtsy"
+      ],
+      "partia": "dół",
+      "tempo": "2-0-1-1",
+      "serie": "2-3",
+      "powtorzenia": "8-12/nogę",
+      "przerwa": "90-180",
+      "uwagi": "",
+      "link": "https://static.exercisedb.dev/media/RRWFUcw.gif",
+      "link_typ": "gif",
+      "link_zrodlo": "exercisedb",
+      "dopasowano_do": "dumbbell lunge",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "glutes"
+      ]
+    },
+    {
+      "nazwa_pl": "Zakroki z hantlami",
+      "nazwa_en": "dumbbell reverse lunge",
+      "aliasy": [
+        "zakroki",
+        "zakrok",
+        "reverse lunge"
+      ],
+      "partia": "dół",
+      "tempo": "2-0-1-1",
+      "serie": "3-4",
+      "powtorzenia": "6-12/nogę",
+      "przerwa": "60-120",
+      "uwagi": "",
+      "link": "https://static.exercisedb.dev/media/RRWFUcw.gif",
+      "link_typ": "gif",
+      "link_zrodlo": "exercisedb",
+      "dopasowano_do": "dumbbell lunge",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "glutes"
+      ]
+    },
+    {
+      "nazwa_pl": "Drag curl ze sztangą",
+      "nazwa_en": "barbell drag curl",
+      "aliasy": [
+        "drag curl"
+      ],
+      "partia": "pull",
+      "tempo": "2-0-1-1",
+      "serie": "2",
+      "powtorzenia": "12-15",
+      "przerwa": "60-90",
+      "uwagi": "",
+      "link": "https://static.exercisedb.dev/media/IENzBdA.gif",
+      "link_typ": "gif",
+      "link_zrodlo": "exercisedb",
+      "dopasowano_do": "barbell drag curl",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "biceps"
+      ]
+    },
+    {
+      "nazwa_pl": "Facepull",
+      "nazwa_en": "cable face pull",
+      "aliasy": [
+        "face pull",
+        "facepull"
+      ],
+      "partia": "pull",
+      "tempo": "2-0-1-1",
+      "serie": "2-3",
+      "powtorzenia": "15-20",
+      "przerwa": "60-90",
+      "uwagi": "",
+      "link": "https://static.exercisedb.dev/media/zCgxPbV.gif",
+      "link_typ": "gif",
+      "link_zrodlo": "exercisedb",
+      "dopasowano_do": "cable twisting pull",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "lats"
+      ]
+    },
+    {
+      "nazwa_pl": "Gorilla row z kettlebell",
+      "nazwa_en": "kettlebell gorilla row",
+      "aliasy": [
+        "gorilla row"
+      ],
+      "partia": "pull",
+      "tempo": "2-1-1-0",
+      "serie": "2",
+      "powtorzenia": "6-12/rękę",
+      "przerwa": "90-120",
+      "uwagi": "",
+      "link": "https://static.exercisedb.dev/media/Ca76jUE.gif",
+      "link_typ": "gif",
+      "link_zrodlo": "exercisedb",
+      "dopasowano_do": "kettlebell alternating row",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "upper back"
+      ]
+    },
+    {
+      "nazwa_pl": "Odwrócone wiosłowanie TRX z nogami na ławeczce",
+      "nazwa_en": "inverted row",
+      "aliasy": [
+        "TRX row",
+        "wiosłowanie TRX",
+        "odwrócone wiosło"
+      ],
+      "partia": "pull",
+      "tempo": "-",
+      "serie": "3",
+      "powtorzenia": "5+",
+      "przerwa": "90-180",
+      "uwagi": "",
+      "link": "https://static.exercisedb.dev/media/bZGHsAZ.gif",
+      "link_typ": "gif",
+      "link_zrodlo": "exercisedb",
+      "dopasowano_do": "inverted row",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "upper back"
+      ]
+    },
+    {
+      "nazwa_pl": "Podciąganie nachwytem",
+      "nazwa_en": "pull up",
+      "aliasy": [
+        "podciąganie",
+        "pull-up",
+        "pullup"
+      ],
+      "partia": "pull",
+      "tempo": "2-0-1-0",
+      "serie": "3",
+      "powtorzenia": "5+",
+      "przerwa": "120-180",
+      "uwagi": "",
+      "link": "https://static.exercisedb.dev/media/lBDjFxJ.gif",
+      "link_typ": "gif",
+      "link_zrodlo": "exercisedb",
+      "dopasowano_do": "pull-up",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "lats"
+      ]
+    },
+    {
+      "nazwa_pl": "Przyciąganie linki wyciągu dolnego siedząc",
+      "nazwa_en": "seated cable row",
+      "aliasy": [
+        "wiosło na wyciągu",
+        "seated row",
+        "wyciąg dolny"
+      ],
+      "partia": "pull",
+      "tempo": "2-0-1-0",
+      "serie": "3",
+      "powtorzenia": "8-12",
+      "przerwa": "120-180",
+      "uwagi": "",
+      "link": "https://static.exercisedb.dev/media/fUBheHs.gif",
+      "link_typ": "gif",
+      "link_zrodlo": "exercisedb",
+      "dopasowano_do": "cable seated row",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "upper back"
+      ]
+    },
+    {
+      "nazwa_pl": "Pull apart z gumą stojąc",
+      "nazwa_en": "band pull apart",
+      "aliasy": [
+        "pull apart",
+        "rozciąganie gumy"
+      ],
+      "partia": "pull",
+      "tempo": "2-0-1-0",
+      "serie": "-",
+      "powtorzenia": "15-30",
+      "przerwa": "-",
+      "uwagi": "",
+      "link": "https://cdn.jsdelivr.net/gh/yuhonas/free-exercise-db@main/exercises/Band_Pull_Apart/0.jpg",
+      "link_typ": "obrazek",
+      "link_zrodlo": "free-exercise-db",
+      "dopasowano_do": "Band Pull Apart",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "shoulders"
+      ]
+    },
+    {
+      "nazwa_pl": "Sciąganie pionowe drążka podchwytem",
+      "nazwa_en": "underhand lat pulldown",
+      "aliasy": [
+        "ściąganie podchwytem",
+        "podchwyt wyciąg"
+      ],
+      "partia": "pull",
+      "tempo": "2-1-1-0",
+      "serie": "2",
+      "powtorzenia": "8-12",
+      "przerwa": "90-120",
+      "uwagi": "",
+      "link": "https://cdn.jsdelivr.net/gh/yuhonas/free-exercise-db@main/exercises/Underhand_Cable_Pulldowns/0.jpg",
+      "link_typ": "obrazek",
+      "link_zrodlo": "free-exercise-db (override)",
+      "dopasowano_do": "Underhand Cable Pulldowns",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "lats"
+      ]
+    },
+    {
+      "nazwa_pl": "Wiosło w opadzie sztangą",
+      "nazwa_en": "barbell bent over row",
+      "aliasy": [
+        "wiosło",
+        "wiosło sztangą",
+        "bent over row"
+      ],
+      "partia": "pull",
+      "tempo": "2-0-1-0",
+      "serie": "3",
+      "powtorzenia": "8-12",
+      "przerwa": "90-120",
+      "uwagi": "",
+      "link": "https://static.exercisedb.dev/media/eZyBC3j.gif",
+      "link_typ": "gif",
+      "link_zrodlo": "exercisedb",
+      "dopasowano_do": "barbell bent over row",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "upper back"
+      ]
+    },
+    {
+      "nazwa_pl": "Zginanie łokci siedząc na ławce 70° z hantlami",
+      "nazwa_en": "incline dumbbell curl",
+      "aliasy": [
+        "uginanie na skosie",
+        "incline curl"
+      ],
+      "partia": "pull",
+      "tempo": "2-1-1-0",
+      "serie": "2",
+      "powtorzenia": "12-15",
+      "przerwa": "60-120",
+      "uwagi": "",
+      "link": "https://static.exercisedb.dev/media/ae9UoXQ.gif",
+      "link_typ": "gif",
+      "link_zrodlo": "exercisedb",
+      "dopasowano_do": "dumbbell incline curl",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "biceps"
+      ]
+    },
+    {
+      "nazwa_pl": "Zginanie łokci ze sztangą stojąc",
+      "nazwa_en": "barbell curl",
+      "aliasy": [
+        "uginanie",
+        "biceps sztanga",
+        "curl"
+      ],
+      "partia": "pull",
+      "tempo": "2-0-1-0",
+      "serie": "2",
+      "powtorzenia": "12-15",
+      "przerwa": "60-120",
+      "uwagi": "",
+      "link": "https://static.exercisedb.dev/media/25GPyDY.gif",
+      "link_typ": "gif",
+      "link_zrodlo": "exercisedb",
+      "dopasowano_do": "barbell curl",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "biceps"
+      ]
+    },
+    {
+      "nazwa_pl": "Zottman curl z hantlami stojąc",
+      "nazwa_en": "zottman curl",
+      "aliasy": [
+        "zottman"
+      ],
+      "partia": "pull",
+      "tempo": "2-0-2-1",
+      "serie": "2",
+      "powtorzenia": "12-15",
+      "przerwa": "60-90",
+      "uwagi": "",
+      "link": "https://static.exercisedb.dev/media/kXaIn5A.gif",
+      "link_typ": "gif",
+      "link_zrodlo": "exercisedb",
+      "dopasowano_do": "dumbbell zottman curl",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "biceps"
+      ]
+    },
+    {
+      "nazwa_pl": "Ściąganie linki wyciągu górnego jednorącz klęcząc",
+      "nazwa_en": "one arm lat pulldown kneeling",
+      "aliasy": [
+        "ściąganie jednorącz"
+      ],
+      "partia": "pull",
+      "tempo": "2-0-1-0",
+      "serie": "2",
+      "powtorzenia": "8-12",
+      "przerwa": "90-120",
+      "uwagi": "",
+      "link": "https://static.exercisedb.dev/media/pmnrOp0.gif",
+      "link_typ": "gif",
+      "link_zrodlo": "exercisedb",
+      "dopasowano_do": "band kneeling one arm pulldown",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "lats"
+      ]
+    },
+    {
+      "nazwa_pl": "Ściąganie linki wyciągu górnego siedząc podchwytem",
+      "nazwa_en": "underhand cable pulldown",
+      "aliasy": [
+        "ściąganie z góry",
+        "underhand pulldown",
+        "ściąganie podchwytem siedząc"
+      ],
+      "partia": "pull",
+      "tempo": "2-0-1-0",
+      "serie": "3",
+      "powtorzenia": "8-12",
+      "przerwa": "120-180",
+      "uwagi": "",
+      "link": "https://static.exercisedb.dev/media/xBYcQHj.gif",
+      "link_typ": "gif",
+      "link_zrodlo": "exercisedb",
+      "dopasowano_do": "cable underhand pulldown",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "lats"
+      ]
+    },
+    {
+      "nazwa_pl": "Floor press jednorącz z hantlą",
+      "nazwa_en": "one arm dumbbell floor press",
+      "aliasy": [
+        "floor press"
+      ],
+      "partia": "push",
+      "tempo": "2-1-1-1",
+      "serie": "2",
+      "powtorzenia": "6-10",
+      "przerwa": "90-120",
+      "uwagi": "",
+      "link": "https://static.exercisedb.dev/media/84RyJf8.gif",
+      "link_typ": "gif",
+      "link_zrodlo": "exercisedb",
+      "dopasowano_do": "dumbbell one arm shoulder press",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "delts"
+      ]
+    },
+    {
+      "nazwa_pl": "Podciąganie sztangi pod brodę stojąc",
+      "nazwa_en": "barbell upright row",
+      "aliasy": [
+        "podciąganie pod brodę",
+        "upright row"
+      ],
+      "partia": "push",
+      "tempo": "2-0-2-0",
+      "serie": "-",
+      "powtorzenia": "12-15",
+      "przerwa": "-",
+      "uwagi": "",
+      "link": "https://static.exercisedb.dev/media/UDlhcO8.gif",
+      "link_typ": "gif",
+      "link_zrodlo": "exercisedb",
+      "dopasowano_do": "barbell upright row",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "delts"
+      ]
+    },
+    {
+      "nazwa_pl": "Prostowanie łokci nad głową z linką wyciągu dolnego",
+      "nazwa_en": "cable overhead triceps extension",
+      "aliasy": [
+        "francuskie na lince nad głowę"
+      ],
+      "partia": "push",
+      "tempo": "2-0-1-0",
+      "serie": "2",
+      "powtorzenia": "12-15",
+      "przerwa": "60-90",
+      "uwagi": "",
+      "link": "https://static.exercisedb.dev/media/2IxROQ1.gif",
+      "link_typ": "gif",
+      "link_zrodlo": "exercisedb",
+      "dopasowano_do": "cable overhead triceps extension (rope attachment)",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "triceps"
+      ]
+    },
+    {
+      "nazwa_pl": "Prostowanie łokci z linką wyciągu górnego",
+      "nazwa_en": "cable pushdown",
+      "aliasy": [
+        "pushdown",
+        "prostowanie na lince",
+        "triceps pushdown"
+      ],
+      "partia": "push",
+      "tempo": "2-0-2-1",
+      "serie": "2",
+      "powtorzenia": "12-15",
+      "przerwa": "60-90",
+      "uwagi": "",
+      "link": "https://static.exercisedb.dev/media/3ZflifB.gif",
+      "link_typ": "gif",
+      "link_zrodlo": "exercisedb",
+      "dopasowano_do": "cable pushdown",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "triceps"
+      ]
+    },
+    {
+      "nazwa_pl": "Wyciskanie JM ze sztangą na ławce poziomej",
+      "nazwa_en": "jm press",
+      "aliasy": [
+        "JM press"
+      ],
+      "partia": "push",
+      "tempo": "2-0-1-1",
+      "serie": "2",
+      "powtorzenia": "12-15",
+      "przerwa": "60-120",
+      "uwagi": "",
+      "link": "https://static.exercisedb.dev/media/ZsiqXYa.gif",
+      "link_typ": "gif",
+      "link_zrodlo": "exercisedb",
+      "dopasowano_do": "barbell jm bench press",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "triceps"
+      ]
+    },
+    {
+      "nazwa_pl": "Wyciskanie francuskie hantlami leżąc",
+      "nazwa_en": "dumbbell lying triceps extension",
+      "aliasy": [
+        "francuskie hantlami",
+        "skullcrusher hantle"
+      ],
+      "partia": "push",
+      "tempo": "2-0-1-0",
+      "serie": "2-3",
+      "powtorzenia": "12-15",
+      "przerwa": "60-120",
+      "uwagi": "",
+      "link": "https://static.exercisedb.dev/media/mpKZGWz.gif",
+      "link_typ": "gif",
+      "link_zrodlo": "exercisedb",
+      "dopasowano_do": "dumbbell lying triceps extension",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "triceps"
+      ]
+    },
+    {
+      "nazwa_pl": "Wyciskanie hantli nad głowę siedząc",
+      "nazwa_en": "seated dumbbell shoulder press",
+      "aliasy": [
+        "wyciskanie hantli siedząc",
+        "OHP hantle"
+      ],
+      "partia": "push",
+      "tempo": "2-0-1-0",
+      "serie": "2-3",
+      "powtorzenia": "8-12",
+      "przerwa": "90-120",
+      "uwagi": "",
+      "link": "https://static.exercisedb.dev/media/znQUdHY.gif",
+      "link_typ": "gif",
+      "link_zrodlo": "exercisedb",
+      "dopasowano_do": "dumbbell seated shoulder press",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "delts"
+      ]
+    },
+    {
+      "nazwa_pl": "Wyciskanie jednorącz na landmine klęcząc",
+      "nazwa_en": "kneeling landmine press",
+      "aliasy": [
+        "landmine press"
+      ],
+      "partia": "push",
+      "tempo": "2-1-1-0",
+      "serie": "2",
+      "powtorzenia": "8-12/rękę",
+      "przerwa": "90-120",
+      "uwagi": "",
+      "link": "",
+      "link_typ": "reczne",
+      "link_zrodlo": "",
+      "dopasowano_do": "",
+      "mismatch_ryzyko": false,
+      "miesnie": []
+    },
+    {
+      "nazwa_pl": "Wyciskanie leżąc sztangi na ławce poziomej",
+      "nazwa_en": "barbell bench press",
+      "aliasy": [
+        "wyciskanie",
+        "ławka",
+        "bench"
+      ],
+      "partia": "push",
+      "tempo": "2-0-1-1",
+      "serie": "3",
+      "powtorzenia": "8-12",
+      "przerwa": "90-120",
+      "uwagi": "",
+      "link": "https://static.exercisedb.dev/media/EIeI8Vf.gif",
+      "link_typ": "gif",
+      "link_zrodlo": "exercisedb",
+      "dopasowano_do": "barbell bench press",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "pectorals"
+      ]
+    },
+    {
+      "nazwa_pl": "Wyciskanie sztangi na ławce skośnej 30°",
+      "nazwa_en": "barbell incline bench press",
+      "aliasy": [
+        "skos",
+        "wyciskanie skos",
+        "incline"
+      ],
+      "partia": "push",
+      "tempo": "2-0-1-1",
+      "serie": "3",
+      "powtorzenia": "6-10",
+      "przerwa": "90-120",
+      "uwagi": "",
+      "link": "https://static.exercisedb.dev/media/3TZduzM.gif",
+      "link_typ": "gif",
+      "link_zrodlo": "exercisedb",
+      "dopasowano_do": "barbell incline bench press",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "pectorals"
+      ]
+    },
+    {
+      "nazwa_pl": "Wyciskanie sztangi nad głowę stojąc",
+      "nazwa_en": "barbell standing military press",
+      "aliasy": [
+        "OHP",
+        "military",
+        "wyciskanie nad głowę"
+      ],
+      "partia": "push",
+      "tempo": "2-0-1-0",
+      "serie": "3",
+      "powtorzenia": "6-10",
+      "przerwa": "120-180",
+      "uwagi": "",
+      "link": "https://static.exercisedb.dev/media/Kyd9Rz5.gif",
+      "link_typ": "gif",
+      "link_zrodlo": "exercisedb",
+      "dopasowano_do": "barbell standing wide military press",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "delts"
+      ]
+    },
+    {
+      "nazwa_pl": "Wznosy boczne hantlami stojąc",
+      "nazwa_en": "dumbbell lateral raise",
+      "aliasy": [
+        "wznosy bokiem",
+        "lateral raise",
+        "boczne"
+      ],
+      "partia": "push",
+      "tempo": "2-0-2-0",
+      "serie": "-",
+      "powtorzenia": "15-20",
+      "przerwa": "-",
+      "uwagi": "",
+      "link": "https://static.exercisedb.dev/media/DsgkuIt.gif",
+      "link_typ": "gif",
+      "link_zrodlo": "exercisedb",
+      "dopasowano_do": "dumbbell lateral raise",
+      "mismatch_ryzyko": false,
+      "miesnie": [
+        "delts"
+      ]
+    }
+  ]
+}
