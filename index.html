@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Michał Niemkiewicz</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      background: #111;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    }
+
+    .card {
+      text-align: center;
+      padding: 3rem 2rem;
+    }
+
+    .logo {
+      width: min(420px, 90vw);
+      display: block;
+      margin: 0 auto 2.5rem;
+    }
+
+    .tagline {
+      color: #fff;
+      font-size: clamp(1.1rem, 3vw, 1.6rem);
+      font-weight: 300;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      opacity: 0.85;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <img src="logo.png" alt="Michał Niemkiewicz" class="logo">
+    <p class="tagline">A jaki jest Twój cel?</p>
+  </div>
+</body>
+</html>
